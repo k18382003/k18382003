@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Summer Teng
 - 👀 I’m interested in travelling and learning new things
-- 🌱 I’m currently learning web development and data analysis(still a rookie)
+- 🌱 I’m a backend developer
 - 💞️ I’m looking to collaborate on web or application development projects 
 - 📫 Please reach me by k18382003@gmail.com
 
